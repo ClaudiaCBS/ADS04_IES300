@@ -51,9 +51,9 @@ Será apresentado exemplos práticos em código Java e diagrama UML.
 
 :sparkles: Composite ([Link da Pasta](Composite)): Concluído :white_check_mark:
 
-:zap: Façade ([Link da Pasta](Facade)): Concluído :white_check_mark:
+:zap: Façade ([Link da Pasta](Facade)): Em Andamento :construction:
 
-:sparkles: Observer ([Link da Pasta](Observer)): Concluído :white_check_mark:
+:sparkles: Observer ([Link da Pasta](Observer)): Em Andamento :construction:
 
 :zap: Strategy ([Link da Pasta](Strategy)): Concluído :white_check_mark:
 
