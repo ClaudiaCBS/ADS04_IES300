@@ -1,2 +1,12 @@
-# ADS04_IES300
-Repositório para as atividades da disciplina Engenharia de Software III do Prof. Giuliano Bertoti.
+<div align="center">
+      
+# FACADE
+Aqui temos o diagrama UML e o código Java que ilustram a implementação do padrão de projeto Facade.
+      
+</div>
+
+<p align="center">
+      <img src="/Diagramas_UML/Facade.png" alt="Diagrama UML - Facade">
+
+<span id="topo">
+<p align="center">
