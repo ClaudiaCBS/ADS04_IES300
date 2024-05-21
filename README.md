@@ -47,14 +47,13 @@ Página criada para documentar e compartilhar o aprendizado sobre Padrões de Pr
 
 Nos links abaixo serão apresentados exemplos práticos em código Java e diagrama UML de cada padrão de projeto.
 
-
-| N° | Nome do Padrão de Projeto | Status | Link |
-|:--:|:----------:|:----------:|:-------------------------------------------------:|
-| 01 | Singleton | :white_check_mark: Concluído | [Ver relatório](Singleton) |
-| 02 | Composite | :white_check_mark: Concluído | [Ver relatório](Composite) |
-| 03 | Strategy | :white_check_mark: Concluído | [Ver relatório](Strategy) |
-| 04 | Façade | 🚧 Em desenvolvimento | [Ver relatório](Facade) |
-| 05 | Observer | 🚧 Em desenvolvimento | [Ver relatório](Observer) |
-| 06 | MVC | 🚧 Em desenvolvimento | [Ver relatório](MVC) |
+| N°  | Nome do Padrão de Projeto |            Status            |            Link            |
+| :-: | :-----------------------: | :--------------------------: | :------------------------: |
+| 01  |         Singleton         | :white_check_mark: Concluído | [Ver relatório](Singleton) |
+| 02  |         Composite         | :white_check_mark: Concluído | [Ver relatório](Composite) |
+| 03  |         Strategy          | :white_check_mark: Concluído | [Ver relatório](Strategy)  |
+| 04  |          Facade           | :white_check_mark: Concluído |  [Ver relatório](Facade)   |
+| 05  |         Observer          | :white_check_mark: Concluído | [Ver relatório](Observer)  |
+| 06  |            MVC            |    🚧 Em desenvolvimento     |    [Ver relatório](MVC)    |
 
 </div>
