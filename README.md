@@ -54,6 +54,6 @@ Nos links abaixo serão apresentados exemplos práticos em código Java e diagra
 | 03  |         Strategy          | :white_check_mark: Concluído | [Ver relatório](Strategy)  |
 | 04  |          Facade           | :white_check_mark: Concluído |  [Ver relatório](Facade)   |
 | 05  |         Observer          | :white_check_mark: Concluído | [Ver relatório](Observer)  |
-| 06  |            MVC            |    🚧 Em desenvolvimento     |    [Ver relatório](MVC)    |
+| 06  |            MVC            | :white_check_mark: Concluído |    [Ver relatório](MVC)    |
 
 </div>
