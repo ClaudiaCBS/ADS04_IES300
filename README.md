@@ -6,7 +6,7 @@
 
 Atividades da matéria - Engenharia de Software III
 
-## <a href="https://github.com/gerson-pn" target="Gerson"> Professor Giuliano Araujo Bertoti </a>
+## <a href="https://github.com/giulianobertoti" target="Giuliano"> Professor Giuliano Araujo Bertoti </a>
 
 </div>
 
